@@ -1,4 +1,6 @@
-Classroom with inapp notification
+Classroom Application with inapp notification System
+
+
  A mobile application which is an interface between teachers and students.
  Allows teacher to upload
        -->contents
